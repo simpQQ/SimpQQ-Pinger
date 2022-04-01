@@ -1,0 +1,2 @@
+passcode is: 7855
+to get code to open type: pip install pythonping  into CMD

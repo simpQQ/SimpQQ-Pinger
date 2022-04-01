@@ -1,0 +1,53 @@
+#give program time to cool down
+import time
+from pythonping import ping
+y = 7855
+print("Thanks for downloading, Check me out on GitHub: https://github.com/simpQQ/")
+time.sleep(2)
+x = int(input("Enter passcode: "))
+if x == y:
+  print("Welcome back Travis :D")
+  time.sleep(2)
+  j = str(input("IP: "))
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+  time.sleep(1)
+  ping(j , verbose=True)
+
+  input()
+else:
+  print("incorrect lmao")
+  time.sleep(1)
+  print("why are you still here? reopen to try again!")
+  time.sleep(7)
+  print("GO")
+  time.sleep(5)
+  print("Okay press enter :D")
+  input()
+
+
